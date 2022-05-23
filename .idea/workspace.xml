@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66fa4002-839f-40ae-9144-9f7a0809e831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="66fa4002-839f-40ae-9144-9f7a0809e831" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,12 +83,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653294171073</updated>
-      <workItem from="1653294172144" duration="419000" />
+      <workItem from="1653294172144" duration="717000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1653294767049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653294767049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="634" y="175" key="FileChooserDialogImpl" timestamp="1653294397228">
